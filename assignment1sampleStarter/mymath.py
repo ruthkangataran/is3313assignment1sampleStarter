@@ -11,4 +11,4 @@ def divide_three(a, b, c):
     return a/b/c
 
 def power(a, b):
-    return a**b
+    return a*b
